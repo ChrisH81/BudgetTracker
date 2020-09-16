@@ -1,0 +1,10 @@
+{
+    "name": "Budget Tracker PWA",
+    "short_name": "Budget Tracker PWA",
+    "description": "budget tracker application for Offline use",
+    "start_url" : "/",
+    "display" : "fullscreen",
+    "theme_color" : "#B12A34",
+    "background_color" : "#ffffff"
+
+} 
